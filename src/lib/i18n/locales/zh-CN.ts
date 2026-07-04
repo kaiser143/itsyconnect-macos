@@ -193,6 +193,8 @@ export const zhCN: Messages = {
     fetchingAnalytics: "正在获取分析数据 – 首次加载可能需要一些时间",
     noAnalyticsData: "暂无分析数据。",
     proceeds: "收入",
+    downloads: "下载量",
+    crashFree: "无崩溃",
     noDataForRange: "该日期范围内无数据。",
     awaitingData: "等待 App Store Connect 数据",
     pending: "处理中",

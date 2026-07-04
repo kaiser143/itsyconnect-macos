@@ -194,6 +194,8 @@ export const ru: Messages = {
     fetchingAnalytics: "Получение аналитики – при первой загрузке это может занять время",
     noAnalyticsData: "Данные аналитики пока недоступны.",
     proceeds: "Выручка",
+    downloads: "Загрузки",
+    crashFree: "Без сбоев",
     noDataForRange: "Нет данных за этот период.",
     awaitingData: "Ожидание данных от App Store Connect",
     pending: "Ожидается",

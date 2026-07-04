@@ -194,6 +194,8 @@ export const fr: Messages = {
     fetchingAnalytics: "Récupération des données analytiques – cela peut prendre un moment au premier chargement",
     noAnalyticsData: "Aucune donnée analytique disponible pour le moment.",
     proceeds: "Recettes",
+    downloads: "Téléchargements",
+    crashFree: "Sans plantage",
     noDataForRange: "Aucune donnée pour cette plage de dates.",
     awaitingData: "En attente de données d’App Store Connect",
     pending: "En attente",

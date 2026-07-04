@@ -194,6 +194,8 @@ export const de: Messages = {
     fetchingAnalytics: "Analysedaten werden abgerufen – beim ersten Laden kann das einen Moment dauern",
     noAnalyticsData: "Noch keine Analysedaten verfügbar.",
     proceeds: "Erlöse",
+    downloads: "Downloads",
+    crashFree: "Absturzfrei",
     noDataForRange: "Keine Daten für diesen Zeitraum.",
     awaitingData: "Warten auf Daten von App Store Connect",
     pending: "Ausstehend",
