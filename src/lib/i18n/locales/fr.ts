@@ -1099,6 +1099,7 @@ export const fr: Messages = {
   analyticsRange: {
     lastDay: "Dernier jour",
     lastDays: "{days} derniers jours",
+    pctFromPreviousPeriod: "{pct} par rapport à la période précédente",
     month: "Mois",
     customRange: "Plage personnalisée…",
   },

@@ -1097,6 +1097,7 @@ export const en = {
   analyticsRange: {
     lastDay: "Last day",
     lastDays: "Last {days} days",
+    pctFromPreviousPeriod: "{pct} from previous period",
     month: "Month",
     customRange: "Custom range…",
   },

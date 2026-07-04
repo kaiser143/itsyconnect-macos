@@ -1093,6 +1093,7 @@ export const zhCN: Messages = {
   analyticsRange: {
     lastDay: "最近一天",
     lastDays: "最近 {days} 天",
+    pctFromPreviousPeriod: "较上一周期 {pct}",
     month: "月份",
     customRange: "自定义范围…",
   },
